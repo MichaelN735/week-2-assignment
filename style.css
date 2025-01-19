@@ -1,0 +1,13 @@
+img {
+    width: auto;
+    height: 20vh;
+}
+
+body {
+    background-color: aqua;
+}
+
+#displayImage {
+    width: fit-content;
+    height: fit-content;
+}
